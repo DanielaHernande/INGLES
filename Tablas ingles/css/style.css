@@ -1,0 +1,29 @@
+    /* Estilos adicionales */
+    .card {
+        box-shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.5); /* Agregar sombra */
+      }
+      
+      .card-title {
+        margin-top: 10px;
+      }
+      
+      .card-text {
+        font-size: 14px;
+      }
+      
+      .btn {
+        margin-top: 15px;
+      }
+      
+      /* Estilos para el icono */
+      .icon-background {
+        width: 25px;
+        background-color: yellow;
+        border-radius: 100px; /* Hace que el fondo sea redondo */
+        padding: 10px; /* Espacio alrededor del icono */
+        border: 2px solid #b9b1b1be; /* Agregar borde al icono */
+      }
+  
+      .icon-background i {
+        color: white;
+      }
